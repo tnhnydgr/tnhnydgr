@@ -1,7 +1,5 @@
 <h2 align="center">Hi 👋 , I'm Tunahan</h2>
-
 <div>
-<p>&nbsp; </p> 
 <p align="center">
 I'm currently learning : &nbsp;   
 <img src="https://blog.jetbrains.com/wp-content/uploads/2019/01/kotlin-2.svg" height="25px" width="25px"</p> &nbsp;
