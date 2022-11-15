@@ -6,6 +6,6 @@ I'm currently learning : &nbsp;
 and &nbsp;
 <img src="https://developer.android.com/static/images/logos/android.svg" height="25px" width="25px"</p>
 <p align="center">
-You can reach me : <b> tnhnydg@gmail.com </b>
+You can reach me : <b> tnhnydgr@gmail.com </b>
 </p> 
 </div>
